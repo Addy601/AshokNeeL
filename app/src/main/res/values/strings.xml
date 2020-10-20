@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ASHOK_NEEL</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <array name="Identity">
+        <item>Anonymous</item>
+        <item>Identified</item>
+    </array>
+    <array name="SuggestionCategory">
+        <item>Suggestion For Ashokneel</item>
+        <item>Suggestion For App improvements</item>
+    </array>
+</resources>

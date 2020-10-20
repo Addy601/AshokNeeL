@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "968434442475",
+    "firebase_url": "https://ashokneel-f720b.firebaseio.com",
+    "project_id": "ashokneel-f720b",
+    "storage_bucket": "ashokneel-f720b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968434442475:android:ceb11f2f540a1995f85eae",
+        "android_client_info": {
+          "package_name": "com.addy.ashok_neel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968434442475-hmfssr4gr5iljhd7d05i87u1rs1j2o1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.addy.ashok_neel",
+            "certificate_hash": "4428046e254208d6ed27941ba7e6682753cf084e"
+          }
+        },
+        {
+          "client_id": "968434442475-cqfuevg5pqsghmo21729js7j89pc2k96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2tUtF_aVxrgCPAH1qbR57yWbrZmeW1_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968434442475-epadj5iesf35f5kmhf65h0pf9s41v1i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
